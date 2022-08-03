@@ -1,6 +1,4 @@
 [![CircleCI](https://circleci.com/gh/springframeworkguru/spring5-mvc-rest.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring5-mvc-rest)
 # Spring Framework 5 MVC Rest Application
-
-This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
-
-You can learn about my Spring Framework 5 Online course [here.](http://courses.springframework.guru/p/spring-framework-5-begginer-to-guru/?product_id=363173)
+- This project is used to create RESTFul WebServices in the [Section 24: RESTFul WebServices with SpringMVC](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
+- It will be used as a template and I'll work my way through the course by modifying already existing branches.
